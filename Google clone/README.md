@@ -6,4 +6,6 @@ Quick start:
 $ npm install
 $ npm start
 ````
+Here is how the created static page looks like.
+
 
